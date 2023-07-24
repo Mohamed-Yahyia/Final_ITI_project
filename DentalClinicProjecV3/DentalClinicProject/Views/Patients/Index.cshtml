@@ -1,0 +1,119 @@
+﻿@model IEnumerable<DentalClinicProject.ViewModels.PatientsVM>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- Page Heading -->
+<div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="h3 mb-0 text-gray-800">Patients</h1>
+    <a  asp-action="CreatePatient"
+       class="d-none d-sm-inline-block btn btn-lg btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> Create New</a>
+</div>
+
+@*Start viewdata*@
+
+@{
+
+    if (TempData["DeletePatient"] != null)
+    {
+        <div class="alert alert-dismissible alert-success" style="width:30%; margin-right:20%;height:67px;font-size:25px;color:white; text-align:center; background-color:darkcyan !important;">
+            تم حذف المريض بنجاح.
+        </div>
+    }
+
+    if (TempData["CreatePatient"] != null)
+    {
+        <div class="alert alert-dismissible alert-success" style="width:30%; margin-right:20%;height:67px;font-size:25px;color:white; text-align:center; background-color:darkcyan !important;">
+            تم إضافة مريض جديد بنجاح.
+        </div>
+    }
+
+    if (TempData["UpdatePatient"] != null)
+    {
+        <div class="alert alert-dismissible alert-success" style="width:30%; margin-right:20%;height:67px;font-size:25px;color:white; text-align:center; background-color:darkcyan !important;">
+            تم تعديل بيانات المريض بنجاح.
+        </div>
+    }
+}
+
+@*End viewdata*@
+<div class="card">
+    <div class="card-header bg-primary text-white p-2 ">
+        <div class="form-row">
+            <form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search"
+                  method="get" action="@Url.Action("Search", "Patients")">
+                <div class="input-group">
+                    <input type="text" name="searchString" class="form-control bg-light border-0 small" placeholder="Search by Number..."
+                           aria-label="Search" aria-describedby="basic-addon2">
+                    <div class="input-group-append">
+                        <button class="btn btn-warning" type="submit">
+                            <i class="fas fa-search fa-sm"></i>
+                        </button>
+                    </div>
+                </div>
+            </form>
+         </div>
+    </div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BirthDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Number)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info mb-2">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-secondary mb-2">Details</a> |
+                     <a asp-action="Print" asp-route-id="@item.Id" class="btn btn-outline-secondary mb-2">Records</a> |
+                    <a asp-action="DeletePatient" asp-controller="Patients" asp-route-id="@item.Id" class="btn btn-outline-warning mb-2">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+<br />
+<br />
+<br />

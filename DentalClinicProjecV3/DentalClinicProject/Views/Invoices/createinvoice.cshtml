@@ -1,0 +1,55 @@
+﻿@model DentalClinicProject.ViewModels.InvoicesVM
+
+@{
+    ViewData["Title"] = "Createinvoice";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Heading -->
+<h3 class="bg-primary text-white p-2 ">Create Invoice:</h3>
+<hr />
+
+        <form asp-action="Createinvoice">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <input asp-for="Status" class="form-control" />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+       <div class="form-row">
+        <div class="form-group col-md-6">
+                <label asp-for="Amount" class="control-label"></label>
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+        <div class="form-group col-md-6">
+            <label asp-for="inviocDate" class="control-label"></label>
+                <input asp-for="inviocDate" class="form-control" />
+                <span asp-validation-for="inviocDate" class="text-danger"></span>
+            </div>
+            </div>
+
+
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+
+<div>
+    <a asp-action="Index"
+       class="d-none d-sm-inline-block btn btn-sm btn-secondary shadow-sm"> Back to list</a>
+</div>
+<br />
+<br />
+<br />
+
+@section ScriptRegion{
+    <script src="~/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}
+
+

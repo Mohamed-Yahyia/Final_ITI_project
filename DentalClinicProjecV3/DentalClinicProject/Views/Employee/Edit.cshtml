@@ -1,0 +1,76 @@
+﻿@model DentalClinicProject.ViewModels.EmployeeVM
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- Page Heading -->
+<h3 class="bg-primary text-white p-2 ">تعديل بيانات الموظف @Model.Name</h3>
+<hr />
+
+        <form asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+    </div>
+
+        <div class="form-row">
+
+        <div class="form-group col-md-6">
+            <label asp-for="Role" class="control-label"></label>
+                <input asp-for="Role" class="form-control" />
+                <span asp-validation-for="Role" class="text-danger"></span>
+            </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Salary" class="control-label"></label>
+                <input asp-for="Salary" class="form-control" />
+                <span asp-validation-for="Salary" class="text-danger"></span>
+            </div>
+        </div>
+
+            <div class="form-row">
+
+        <div class="form-group col-md-6">
+            <label asp-for="Number" class="control-label"></label>
+                <input asp-for="Number" class="form-control" />
+                <span asp-validation-for="Number" class="text-danger"></span>
+            </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Addreess" class="control-label"></label>
+                <input asp-for="Addreess" class="form-control" />
+                <span asp-validation-for="Addreess" class="text-danger"></span>
+            </div>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+
+
+<div>
+    <a asp-action="Index"
+       class="d-none d-sm-inline-block btn btn-sm btn-secondary shadow-sm"> Back to list</a>
+</div>
+<br />
+<br />
+<br />
+
+@section ScriptRegion{
+    <script src="~/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}

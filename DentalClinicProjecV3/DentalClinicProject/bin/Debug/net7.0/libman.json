@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.3.0",
+      "destination": "wwwroot/bootstrap/"
+    },
+    {
+      "library": "javascript.util@0.12.12",
+      "destination": "wwwroot/javascript.util/"
+    },
+    {
+      "library": "jquery@3.7.0",
+      "destination": "wwwroot/jquery/"
+    },
+    {
+      "library": "jquery-easing@1.4.1",
+      "destination": "wwwroot/jquery-easing/"
+    },
+    {
+      "library": "Chart.js@4.3.0",
+      "destination": "wwwroot/Chart.js/"
+    },
+    {
+      "library": "jquery-validate@1.19.5",
+      "destination": "wwwroot/jquery-validate/"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@4.0.0",
+      "destination": "wwwroot/jquery-validation-unobtrusive/"
+    }
+  ]
+}

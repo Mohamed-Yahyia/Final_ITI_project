@@ -1,0 +1,41 @@
+﻿@model DentalClinicProject.ViewModels.AppointmentssVM
+
+@{
+    ViewData["Title"] = "AppointmentssVM";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Delete Appointment</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Delete Appointment</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AppointDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AppointDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AppointTime)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AppointTime)
+        </dd>
+       
+    </dl>
+
+    <form asp-action="DeleteAppoint">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
