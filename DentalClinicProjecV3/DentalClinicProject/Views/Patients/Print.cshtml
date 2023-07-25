@@ -1,0 +1,78 @@
+﻿@model IEnumerable<DentalClinicProject.ViewModels.MedicalRecordsVMcs>
+
+@{
+    ViewData["Title"] = "medicalRecords";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+
+@*Start viewdata*@
+
+@{
+
+    if (TempData["DeleteMedical"] != null)
+    {
+        <div class="alert alert-dismissible alert-success" style="width:50%; margin-right:20%;height:67px;font-size:25px;color:white; text-align:center; background-color:darkcyan !important;">
+            تم حذف الموظف بنجاح.
+        </div>
+    }
+
+    if (TempData["CreateMedical"] != null)
+    {
+        <div class="alert alert-dismissible alert-success" style="width:50%; margin-right:20%;height:67px;font-size:25px;color:white; text-align:center; background-color:darkcyan !important;">
+            تم إضافة موظف جديد بنجاح.
+        </div>
+    }
+
+    if (TempData["UpdateMedical"] != null)
+    {
+        <div class="alert alert-dismissible alert-success" style="width:50%; margin-right:20%;height:67px;font-size:25px;color:white; text-align:center; background-color:darkcyan !important;">
+            تم تعديل بيانات الموظف بنجاح.
+        </div>
+    }
+}
+
+@*End viewdata*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Diagnosis )
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Treatment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VisitDate)
+            </th>
+
+
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Diagnosis )
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Treatment)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.VisitDate)
+                </td>
+
+
+
+               
+            </tr>
+        }
+    </tbody>
+</table>
+
+

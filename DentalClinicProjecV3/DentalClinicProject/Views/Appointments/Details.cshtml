@@ -1,0 +1,50 @@
+﻿@model DentalClinicProject.ViewModels.AppointmentssVM
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-auto">
+    <!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Details</h1>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
+                <i class="fas fa-download fa-sm text-primary-50"></i> Edit
+            </a>
+            <a asp-action="Index" class="d-none d-sm-inline-block btn btn-sm btn-outline-primary shadow-sm">
+                <i class="fas fa-list fa-sm text-primary-50"></i> Back to list
+            </a>
+
+        </div>
+
+    </div>
+</div>
+<div>
+    <h4>Appointments</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AppointDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AppointDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AppointTime)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AppointTime)
+        </dd>
+        
+    </dl>
+</div>
+
+

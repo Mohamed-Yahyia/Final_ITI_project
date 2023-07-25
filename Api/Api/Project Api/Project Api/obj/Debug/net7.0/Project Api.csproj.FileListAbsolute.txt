@@ -1,0 +1,553 @@
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\appsettings.Development.json
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\appsettings.json
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Project Api.exe
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Project Api.deps.json
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Project Api.runtimeconfig.json
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Project Api.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Project Api.pdb
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Azure.Core.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Castle.Core.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Humanizer.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final DB\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.AssemblyReference.cache
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfoInputs.cache
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfo.cs
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CoreCompileInputs.cache
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.Project Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Project Api.props
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project Api.props
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project Api.props
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\scopedcss\bundle\Project Api.styles.css
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CopyComplete
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.dll
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\refint\Project Api.dll
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.pdb
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\Project Api.genruntimeconfig.cache
+D:\Final DB\Project Api\Project Api\obj\Debug\net7.0\ref\Project Api.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.json
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.exe
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.deps.json
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.runtimeconfig.json
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.pdb
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Castle.Core.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Humanizer.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.AssemblyReference.cache
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfoInputs.cache
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfo.cs
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CoreCompileInputs.cache
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.Project Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Project Api.props
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project Api.props
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project Api.props
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\scopedcss\bundle\Project Api.styles.css
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CopyComplete
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.dll
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\refint\Project Api.dll
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.pdb
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.genruntimeconfig.cache
+E:\ITI\Project Api\Project Api\Project Api\obj\Debug\net7.0\ref\Project Api.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.Development.json
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.json
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.exe
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.deps.json
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.runtimeconfig.json
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.pdb
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Core.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Castle.Core.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Humanizer.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final DB\Project Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.AssemblyReference.cache
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfoInputs.cache
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfo.cs
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CoreCompileInputs.cache
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.Project Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Project Api.props
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project Api.props
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project Api.props
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\scopedcss\bundle\Project Api.styles.css
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CopyComplete
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.dll
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\refint\Project Api.dll
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.pdb
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.genruntimeconfig.cache
+D:\Final DB\Project Api\Project Api\Project Api\obj\Debug\net7.0\ref\Project Api.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\appsettings.json
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Project Api.exe
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Project Api.deps.json
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Project Api.runtimeconfig.json
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Project Api.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Project Api.pdb
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Castle.Core.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Humanizer.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.AssemblyReference.cache
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfoInputs.cache
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfo.cs
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CoreCompileInputs.cache
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.Project Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Project Api.props
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project Api.props
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project Api.props
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\scopedcss\bundle\Project Api.styles.css
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CopyComplete
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\refint\Project Api.dll
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.pdb
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\Project Api.genruntimeconfig.cache
+E:\ITI NET\Downloads\Project Api (2)\Project Api\Project Api\obj\Debug\net7.0\ref\Project Api.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.Development.json
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.json
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.exe
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.deps.json
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.runtimeconfig.json
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.pdb
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Core.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Castle.Core.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Humanizer.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pro\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.AssemblyReference.cache
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfoInputs.cache
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfo.cs
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CoreCompileInputs.cache
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cs
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cache
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.Project Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Project Api.props
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project Api.props
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project Api.props
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\scopedcss\bundle\Project Api.styles.css
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CopyComplete
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.dll
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\refint\Project Api.dll
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.pdb
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.genruntimeconfig.cache
+D:\pro\Api\Project Api\Project Api\obj\Debug\net7.0\ref\Project Api.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.json
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.exe
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.deps.json
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.runtimeconfig.json
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.pdb
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Castle.Core.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Humanizer.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.AssemblyReference.cache
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfoInputs.cache
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfo.cs
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CoreCompileInputs.cache
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.Project Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Project Api.props
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project Api.props
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project Api.props
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\scopedcss\bundle\Project Api.styles.css
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CopyComplete
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\refint\Project Api.dll
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.pdb
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.genruntimeconfig.cache
+E:\ITI full stack net\Graduation Project\latest 15-7\Api\Api\Project Api\Project Api\obj\Debug\net7.0\ref\Project Api.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\appsettings.json
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.exe
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.deps.json
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.runtimeconfig.json
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Project Api.pdb
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.AssemblyReference.cache
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfoInputs.cache
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.AssemblyInfo.cs
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CoreCompileInputs.cache
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.Project Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Project Api.props
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project Api.props
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project Api.props
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\scopedcss\bundle\Project Api.styles.css
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.csproj.CopyComplete
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\refint\Project Api.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.pdb
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\Project Api.genruntimeconfig.cache
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\obj\Debug\net7.0\ref\Project Api.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\com.theartofdev.edmodo.cropper.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\PdfSharpCore.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\de\PdfSharpCore.resources.dll
+C:\Users\yasser\Downloads\DentalClinic (1)\DentalClinic\Api\Api\Project Api\Project Api\bin\Debug\net7.0\DinkToPdf.dll

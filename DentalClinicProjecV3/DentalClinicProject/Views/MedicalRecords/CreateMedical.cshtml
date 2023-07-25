@@ -1,0 +1,153 @@
+﻿@model DentalClinicProject.ViewModels.MedicalRecordsVMcs
+
+@{
+    ViewData["Title"] = "CreateMedical";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Heading -->
+<h3 class="bg-primary text-white p-2 ">Create Medical Reports:</h3>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="CreateMedical">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Diagnosis" class="control-label"></label>
+                <input asp-for="Diagnosis" class="form-control" />
+                <span asp-validation-for="Diagnosis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Treatment" class="control-label"></label>
+                <input asp-for="Treatment" class="form-control" />
+                <span asp-validation-for="Treatment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VisitDate" class="control-label"></label>
+                <input asp-for="VisitDate" class="form-control" />
+                <span asp-validation-for="VisitDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="patientIdComboBox" class="control-label">Select Patient ID:</label>
+                <select id="patientIdComboBox" asp-for="Idpatient" class="form-control" action="GetAllPatientIdsFromApi"></select>
+                <span asp-validation-for="Idpatient" class="text-danger"></span>
+            </div>
+ <div class="form-group">
+        <label for="Idpatient" class="control-label">Select a Idpatient:</label>
+        <select id="Idpatient" class="form-control" asp-for="Idpatient">
+            <option value="0" selected>Choose an Idpatient</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>8</option>
+            <option>9</option>
+            <option>16</option>
+            <option>17</option>
+            <option>10</option>
+            <option>11</option>
+            <option>12</option>
+            <option>13</option>
+            <option>14</option>
+            <option>15</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+            <option>7</option>
+        </select>
+    </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index"
+       class="d-none d-sm-inline-block btn btn-sm btn-secondary shadow-sm"> Back to list</a>
+</div>
+<br />
+<br />
+<br />
+
+@section ScriptRegion{
+    <script src="~/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}
+
+
+
+@*
+@model DentalClinicProject.ViewModels.MedicalRecordsVMcs
+
+@{
+    ViewData["Title"] = "CreateMedical";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@if (Model != null)
+{
+
+
+<!-- Page Heading -->
+<h3 class="bg-primary text-white p-2 ">Create Medical Reports:</h3>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="CreateMedical">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- ComboBox for Patient IDs -->
+            <div class="form-group">
+                <label for="patientIdComboBox" class="control-label">Select Patient ID:</label>
+                <select id="patientIdComboBox" asp-for="Idpatient" class="form-control">
+                    @foreach (var patientId in ViewBag.PatientIds)
+                    {
+                        <option value="@patientId">@patientId</option>
+                    }
+                </select>
+                <span asp-validation-for="Idpatient" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Diagnosis" class="control-label"></label>
+                <input asp-for="Diagnosis" class="form-control" />
+                <span asp-validation-for="Diagnosis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Treatment" class="control-label"></label>
+                <input asp-for="Treatment" class="form-control" />
+                <span asp-validation-for="Treatment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VisitDate" class="control-label"></label>
+                <input asp-for="VisitDate" class="form-control" />
+                <span asp-validation-for="VisitDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="d-none d-sm-inline-block btn btn-sm btn-secondary shadow-sm">Back to list</a>
+</div>
+<br />
+<br />
+<br />
+
+@section ScriptRegion{
+    <script src="~/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+}
+else
+{
+    <p>Error: The model is null.</p>
+}*@
